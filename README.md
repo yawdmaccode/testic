@@ -1,1 +1,3 @@
 # mytestfile
+# stripfolder
+# stripfolder
